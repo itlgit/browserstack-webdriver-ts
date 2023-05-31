@@ -1,0 +1,13 @@
+userName: <username>
+accessKey: <accesskey>
+platforms:
+  - deviceName: iPhone 14 Pro Max
+    osVersion: 16
+    browserName: safari
+    deviceOrientation: portrait
+# browserstackLocal: true
+buildName: browserstack-build-1
+projectName: BrowserStack Sample
+debug: false
+networkLogs: false
+consoleLogs: errors

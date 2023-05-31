@@ -1,0 +1,21 @@
+{
+  "name": "browserstack-webdriver-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --require ts-node/register google-test.ts --timeout=100000",
+    "bs-test": "browserstack-node-sdk mocha --require ts-node/register google-test.ts --timeout=100000",
+    "pc-test": "tsc && browserstack-node-sdk mocha google-test.js --timeout=100000"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/mocha": "^5.2.7",
+    "@types/selenium-webdriver": "^4.1.15",
+    "browserstack-node-sdk": "^1.15.1",
+    "mocha": "^6.2.3",
+    "selenium-webdriver": "^4.9.2",
+    "ts-node": "^10.8.1"
+  }
+}

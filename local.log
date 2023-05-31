@@ -1,0 +1,40 @@
+
+
+Wed May 31 2023 14:15:52:457 GMT-0600 (MDT) -- Binary semantic version is v8.9.2
+Wed May 31 2023 14:15:52:457 GMT-0600 (MDT) -- Setting output as extra verbose with request parsing
+Wed May 31 2023 14:15:52:457 GMT-0600 (MDT) -- Setting up proxy connection to www-proxy.us.oracle.com:80
+Wed May 31 2023 14:15:52:459 GMT-0600 (MDT) -- Proxy is configured
+Wed May 31 2023 14:15:53:89 GMT-0600 (MDT) -- Starting configuration console on http://localhost:45454
+Wed May 31 2023 14:15:55:511 GMT-0600 (MDT) -- Setting up proxy connection to www-proxy.us.oracle.com:80
+Wed May 31 2023 14:15:55:513 GMT-0600 (MDT) -- Proxy is configured
+Wed May 31 2023 14:15:55:518 GMT-0600 (MDT) -- Setting up proxy connection to www-proxy.us.oracle.com:80
+Wed May 31 2023 14:15:55:521 GMT-0600 (MDT) -- Proxy is configured
+Wed May 31 2023 14:15:55:520 GMT-0600 (MDT) -- Setting up proxy connection to www-proxy.us.oracle.com:80
+Wed May 31 2023 14:15:55:522 GMT-0600 (MDT) -- Proxy is configured
+Wed May 31 2023 14:15:55:545 GMT-0600 (MDT) -- Setting up proxy connection to www-proxy.us.oracle.com:80
+Wed May 31 2023 14:15:55:548 GMT-0600 (MDT) -- Proxy is configured
+Wed May 31 2023 14:15:55:554 GMT-0600 (MDT) -- Setting up proxy connection to www-proxy.us.oracle.com:80
+Wed May 31 2023 14:15:55:556 GMT-0600 (MDT) -- Proxy is configured
+Wed May 31 2023 14:15:56:257 GMT-0600 (MDT) -- [SUCCESS] You can now access your local server(s) in our remote browser
+
+Wed May 31 2023 14:15:56:601 GMT-0600 (MDT) -- Connecting to BrowserStack using WebSocket protocol...
+Wed May 31 2023 14:15:56:601 GMT-0600 (MDT) -- Platform supports WebSocket connections.
+
+Wed May 31 2023 14:15:56:948 GMT-0600 (MDT) -- Connecting to BrowserStack using WebSocket protocol...
+Wed May 31 2023 14:15:56:948 GMT-0600 (MDT) -- Platform supports WebSocket connections.
+
+Wed May 31 2023 14:15:57:25 GMT-0600 (MDT) -- Connecting to BrowserStack using WebSocket protocol...
+Wed May 31 2023 14:15:57:25 GMT-0600 (MDT) -- Platform supports WebSocket connections.
+
+Wed May 31 2023 14:15:57:29 GMT-0600 (MDT) -- Connecting to BrowserStack using WebSocket protocol...
+Wed May 31 2023 14:15:57:30 GMT-0600 (MDT) -- Platform supports WebSocket connections.
+
+Wed May 31 2023 14:15:57:90 GMT-0600 (MDT) -- Connecting to BrowserStack using WebSocket protocol...
+Wed May 31 2023 14:15:57:90 GMT-0600 (MDT) -- Platform supports WebSocket connections.
+
+Wed May 31 2023 14:15:57:307 GMT-0600 (MDT) -- Connecting to BrowserStack using WebSocket protocol...
+Wed May 31 2023 14:15:57:307 GMT-0600 (MDT) -- Platform supports WebSocket connections.
+
+Wed May 31 2023 14:15:57:308 GMT-0600 (MDT) -- Press Ctrl-C to exit
+
+
